@@ -1,0 +1,10 @@
+C:\Users\ComputerLab4PC1\source\repos\registration\bin\Debug\registration.exe.config
+C:\Users\ComputerLab4PC1\source\repos\registration\bin\Debug\registration.exe
+C:\Users\ComputerLab4PC1\source\repos\registration\bin\Debug\registration.pdb
+C:\Users\ComputerLab4PC1\source\repos\registration\obj\Debug\registration.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\registration\obj\Debug\registration.FrmRegistration.resources
+C:\Users\ComputerLab4PC1\source\repos\registration\obj\Debug\registration.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\registration\obj\Debug\registration.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\registration\obj\Debug\registration.exe
+C:\Users\ComputerLab4PC1\source\repos\registration\obj\Debug\registration.pdb
+C:\Users\ComputerLab4PC1\source\repos\registration\obj\Debug\registration.FrmStudentRecord.resources
